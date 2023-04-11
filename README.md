@@ -18,7 +18,9 @@ Final capstone project for Meta Front-end developer program on Coursera, which c
 
 
 ### Booking Confirmation Page
-image.png
+![image](https://user-images.githubusercontent.com/107414400/231143198-d0a532b9-af1c-4582-9010-ee356c22b1f5.png)
+![image](https://user-images.githubusercontent.com/107414400/231143336-c699924f-0af8-4c4a-97d6-b459b4a95d79.png)
+
 
 ### Tech Stack:
 
