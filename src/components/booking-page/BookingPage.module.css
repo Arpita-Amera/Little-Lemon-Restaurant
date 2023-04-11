@@ -1,0 +1,50 @@
+.bookingFormSection {
+  padding: 1rem 0 7rem 0;
+}
+
+.bookingpageImage {
+  display: flex;
+  width: 50%;
+  
+}
+
+.bookingpageImage img {
+  display: flex;
+  max-width: 100%;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+
+.BookingPageContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.heroText {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.displayTitle {
+  font-family: var(--font-heading);
+  font-size: var(--font-size-display-title);
+  color: var(--color-accent-500);
+  font-weight: 600;
+}
+
+.displaySubtitle {
+  font-family: var(--font-heading);
+  font-size: var(--font-size-display-subtitle);
+  margin-top: -2rem;
+}
+
+.formContainer {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}

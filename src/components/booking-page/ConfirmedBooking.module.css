@@ -1,0 +1,63 @@
+.formConfirmation {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.confirmationMessage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.confirmationMessage svg {
+  width: 3rem;
+  height: 3rem;
+}
+
+.confirmationMessage h2 {
+  font-family: 'Markazi Text';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 77px;
+
+  /* identical to box height */
+
+  color: #F4CE14;
+}
+
+.confirmationMessage p {
+  font-size: var(--font-lead-text);
+}
+
+.confirmationActions button {
+  background: #f4ce14;
+  border-radius: 16px;
+  border: none;
+  color: #495e57;
+  padding: 10px 50px;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Karla';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+  margin: auto 20%;
+}
+
+.actions {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-decoration: double;
+  font-style: italic;
+}
+
+/* .actions a {
+  text-decoration: underline;
+  text-shadow: #495e57;
+} */
